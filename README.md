@@ -1,2 +1,1 @@
-# css_font_01
-EDGE FONT
+# css_font
